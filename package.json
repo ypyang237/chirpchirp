@@ -1,0 +1,23 @@
+{
+  "name": "chirpchirp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec --bail --watch "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ypyang237/chirpchirp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ypyang237/chirpchirp/issues"
+  },
+  "homepage": "https://github.com/ypyang237/chirpchirp#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
